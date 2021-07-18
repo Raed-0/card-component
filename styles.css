@@ -1,0 +1,50 @@
+body{
+  background-color: hsl(233, 47%, 7%);
+  text-align: center;
+  font-size: 15px;
+}
+
+
+h1{
+  color: hsl(0, 0%, 100%);
+  font-size: 40px;
+  line-height: 1;
+  margin: 30px auto;
+  width: 35%;
+  font-family: 'Inter', sans-serif;
+}
+
+
+.card{
+  backdrop-filter: hsl(244, 38%, 16%);
+  
+  
+  filter: hsl(244, 38%, 16%);
+}
+
+.insi{
+  color: mediumpurple;
+}
+
+.main-p{
+  font-size: 1.4rem;
+  line-height: 2;
+color: hsla(0, 0%, 100%, 0.75);
+  margin-bottom: 70px;
+  width: 33%;
+  margin: 50px auto;
+}
+p{
+  font-size: 1rem;
+ color: hsla(0, 0%, 100%, 0.6);
+ margin-bottom: 70px;
+ font-family: 'Lexend Deca', sans-serif;
+}
+stan{
+  line-height: 1;
+  font-size: 3rem;
+  display: block;
+    color: hsl(0, 0%, 100%);
+      font-family: 'Inter', sans-serif;
+
+}
