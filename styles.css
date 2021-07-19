@@ -1,0 +1,73 @@
+body{
+  background-color: hsl(233, 47%, 7%);
+  text-align: center;
+  font-size: 15px;
+}
+
+
+h1{
+  color: hsl(0, 0%, 100%);
+  line-height: 1;
+  margin: 30px auto 50px auto;
+  width: 40%;
+  font-family: 'Inter', sans-serif;
+  position: relative;
+  right: 270px;
+  top: 30px;
+  
+}
+
+.all{
+  margin-top: 500px;
+  height: 350px;
+  padding-bottom: 20px;
+    
+
+  background-color: hsl(244, 38%, 16%);
+}
+.card{
+  backdrop-filter: hsl(244, 38%, 16%);
+  width: 30.25rem;
+  position: absolute;
+
+}
+
+.insi{
+  color: mediumpurple;
+}
+
+.main-p{
+    position: relative;
+  right: 270px;
+  bottom: 50px;
+  
+  line-height: 1;
+color: hsla(0, 0%, 100%, 0.75);
+  margin-bottom: 70px;
+  width: 33%;
+  margin: 50px auto;
+}
+h3{
+  display: block;
+  
+}
+p{
+  margin: 50px 20px;
+  line-height: 1;
+ color: hsla(0, 0%, 100%, 0.6);
+ position: relative;
+ right: 270px;
+ bottom: 100px;
+ display: inline-block;
+ margin-bottom: 70px;
+ font-family: 'Lexend Deca', sans-serif;
+ 
+}
+stan{
+  line-height: 1;
+  
+  display: inline-block;
+    color: hsl(0, 0%, 100%);
+      font-family: 'Inter', sans-serif;
+
+}
